@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-messages-listing](screens/messages-listing)
 - [screen-login](screens/login)
 - [screen-create-post-2](screens/create-post-1)
+- [react-native-user-profile](modules/user-profile)
 
 # Getting started: Frontend
 
